@@ -1,5 +1,20 @@
 body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+  text-align: center;
+  width: 80pc;
+  
 }
+div {
+ background-color: red;
+ display:flex;
+ padding:20px;
+ margin-top: 10px;
+ justify-content: space-around;
+ flex-direction: column;
+ float:left;
+ width: 17pc;
+ 
+}
+h1 {
+  text-align: center;
+}
+
